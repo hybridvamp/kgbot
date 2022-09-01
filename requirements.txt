@@ -15,7 +15,7 @@ olefile==0.44
 pelican==3.7.1
 Pillow==4.3.0
 pycairo==1.15.3
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.26.1
 python-dateutil==2.6.1
 python-irclib==0.4.8
