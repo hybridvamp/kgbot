@@ -20,7 +20,7 @@ pygobject==3.26.1
 python-dateutil==2.6.1
 python-irclib==0.4.8
 pytz==2018.3
-reportlab==3.5.55
+reportlab==3.6.13
 scour==0.35
 six==1.11.0
 uniconvertor==2.0
